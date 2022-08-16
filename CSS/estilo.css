@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: url(../Imagens/Paisagem-menor.png);
+}
+
+/*
+***** Conteudo *****
+*/
+
+.conteudo-container {
+    width: 500px;
+    height: 100px;
+    margin: 200px 100px;
+    font-size: 30px;
+}
+
+.letra-claras {
+    color: #bb9577;
+    text-shadow: 2px 2px 2px black;
+}
+
+.letra-escuras {
+    color: #745a4a;
+    text-shadow: 2px 2px 2px black;
+}
